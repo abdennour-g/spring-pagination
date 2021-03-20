@@ -1,1 +1,1 @@
-a simple spring-boot example to customize the pagination.
+a simple spring-boot example to customize the pagination,a fullstack cocktail: RST webservice + ajax + jstl in a single application.
